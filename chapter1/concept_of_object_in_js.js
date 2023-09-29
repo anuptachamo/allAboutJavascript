@@ -5,7 +5,7 @@ const item ={ //item vaneko object ho
     contact_no : 9876789878,
     Remark : function () { //object vitra function ni banauna milxa
         // let fullname = "Rati madhikarmi"
-        // return this.fullname   //yo fullname le remark ko function ma vako variable laii define gareko xa
+        // return this.fullname   //yo this.fullname le remark ko function ma vako variable laii define gareko xa
         return "I'm a good learner --" + this.name //this.name le mathii item vitra vayeko key(name) laii define gareko xa
     },
     other(){ //object vitra multiple function nii banauna milxa (other is a key and value both in function case)

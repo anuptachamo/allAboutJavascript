@@ -1,4 +1,4 @@
-s/*
+/*
 * Normal vs Async vs Defer Load
 console.log(fullname)
 console.log(fullname)
