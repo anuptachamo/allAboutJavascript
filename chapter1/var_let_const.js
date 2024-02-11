@@ -3,10 +3,10 @@ console.log("let, variables and const")
 // alway use let because var is a oldest method 
 // for example is you use var
 // {
-// var a = 23;
-// var a = "tachamo";
-// console.log(a);
-// }
+var f = 23;
+var f = "tachamo";
+console.log(f); 
+
 
 // // console.log(a);   //In this case the variable #a will printed twice
 
